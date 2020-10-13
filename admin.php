@@ -1,5 +1,5 @@
 <?php
-
+// test
 // 管理ページのログインパスワード
 define( 'PASSWORD', 'adminPassword');
 
